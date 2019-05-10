@@ -13,4 +13,5 @@ tom mitchell:a computer program is said to learn from experience E with respect 
 		life span ,disease etc
 		2-unclustering -> cocktail party ,decomposition of audio
 ---------------------------------------------------------------------------------------------------
-
+we will give a training set and machine learning algorithm will form a hypothesis function from the given set of data.if the hypothesis function is in linear depended to y we call it linear regression wrt x. f(x)=k+x*q.we want to find the most suitable value for k and q that suit the given value of y.
+-------------------------------------------------------------------------------------------------
