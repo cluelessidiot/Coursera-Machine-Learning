@@ -3,3 +3,14 @@ machine learning by arthur samuels:-field of study that give computer ability to
 tom mitchell:a computer program is said to learn from experience E with respect to some task T and some performance measure P ,if its performance on T,as measured by P ,improves with experience E
    for eg: take the case of machine learning to classify mails as spam or not,T=classifying mail as spam or not spam E:learning to classofy mail from us P:perfrmance 
 ------------------------------------------------------------------------------------------   
+> supervised learning ,we are given a data set and we make our assumptions based on that data .
+   its divided into two types 
+		1-classifications problem-> we are trying to predict results in discrete outputs 
+		2-regression problem -> we are trying to predict results in wide outputs
+> unsupervised learning we are given a data set and we want to find relationship between data set 
+		eg-data is break into cluster 
+		1-clusteing -> take a collection of  thousand of genes and classifying it based on
+		life span ,disease etc
+		2-unclustering -> cocktail party ,decomposition of audio
+---------------------------------------------------------------------------------------------------
+
